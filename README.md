@@ -13,11 +13,7 @@
 
 *Monthly
 
-
-![mothly](https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192458.jpg)
-![add](https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192517.jpg)
-![monthly2](https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192541.jpg)
-
+<img src = "https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192458.jpg" width = "30%"> <img src = "https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192517.jpg" width = "30%"> <img src = "https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192541.jpg" width = "30%">
 
 --
 
@@ -25,8 +21,8 @@
 
 *Todo
 
+<img src = "https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192550.jpg" width = "30%">
 
-![todo](https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192550.jpg)
 
 
 
@@ -36,16 +32,14 @@
 
 *Weekly
 
-
-![weekly](https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192609.jpg)
+<img src = "https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192609.jpg" width = "30%">
 
 
 
 --
 
 
-
 *Daily
 
+<img src = "https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192613.jpg" width = "30%">
 
-![daily](https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192613.jpg)
