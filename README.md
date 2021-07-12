@@ -13,10 +13,39 @@
 
 *Monthly
 
+
+![mothly](https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192458.jpg)
+![add](https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192517.jpg)
+![monthly2](https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192541.jpg)
+
+
+--
+
+
+
 *Todo
+
+
+![todo](https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192550.jpg)
+
+
+
+--
+
+
 
 *Weekly
 
+
+![weekly](https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192609.jpg)
+
+
+
+--
+
+
+
 *Daily
+
 
 ![daily](https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192613.jpg)
