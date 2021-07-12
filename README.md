@@ -11,3 +11,12 @@
 
 -------------------------------------------------------------
 
+*Monthly
+
+*Todo
+
+*Weekly
+
+*Daily
+
+![daily](https://github.com/mingulee-only/flutter-easy-calendar/blob/main/Screenshot_20210712-192613.jpg)
